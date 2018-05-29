@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
-  {"type":"Feature","geometry":{"type":"Point","coordinates":[-69.9756409641924,12.515628629152774]},"properties":{"OBJECTID":1,"CNTRY_NAME":"Aruba"}},
-  {"type":"Feature","geometry":{"type":"Point","coordinates":[-61.791237923973036,17.279815626907876]},"properties":{"OBJECTID":2,"CNTRY_NAME":"Antigua and Barbuda"}},
-  {"type":"Feature","geometry":{"type":"Point","coordinates":[66.02647098483439,33.838805858881244]},"properties":{"OBJECTID":3,"CNTRY_NAME":"Afghanistan"}},
-  {"type":"Feature","geometry":{"type":"Point","coordinates":[2.632388122222936,28.163239588897177]},"properties":{"OBJECTID":4,"CNTRY_NAME":"Algeria"}}
+  {"type":"Feature","id":"01","geometry":{"type":"Point","coordinates":[-69.9756409641924,12.515628629152774]},"properties":{"OBJECTID":1,"CNTRY_NAME":"Aruba"}},
+  {"type":"Feature","id":"02","geometry":{"type":"Point","coordinates":[-61.791237923973036,17.279815626907876]},"properties":{"OBJECTID":2,"CNTRY_NAME":"Antigua and Barbuda"}},
+  {"type":"Feature","id":"04","geometry":{"type":"Point","coordinates":[66.02647098483439,33.838805858881244]},"properties":{"OBJECTID":3,"CNTRY_NAME":"Afghanistan"}},
+  {"type":"Feature","id":"05","geometry":{"type":"Point","coordinates":[2.632388122222936,28.163239588897177]},"properties":{"OBJECTID":4,"CNTRY_NAME":"Algeria"}}
 ]}
