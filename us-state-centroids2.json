@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"type":"Feature","id":"01","geometry":{"type":"Point","coordinates":[-86.766233,33.001471]},"properties":{"name":"Alabama","population":4447100}},
 {"type":"Feature","id":"02","geometry":{"type":"Point","coordinates":[-148.716968,61.288254]},"properties":{"name":"Alaska","population":626932}},
-{"type":"Feature","id":"04","geometry":{"type":"Point","coordinates":[-111.828711,33.373506]},"properties":{"name":"Arizona","population":5130632}},
+{"type":"Feature","id":"04","geometry":{"type":"Point","coordinates":[-111.828711,33.373506]},"properties":{"name":"Arizona","population":5130632}}
 ]}
