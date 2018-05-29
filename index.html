@@ -66,7 +66,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("countries2.json", function(error, states) {
+d3.json("us-state-centroids2.json", function(error, states) {
   if (error) throw error;
 
   var nodes = states.features
