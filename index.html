@@ -24,7 +24,7 @@ var margin = {top: 0, right: 0, bottom: 0, left: 0},
     height = 500 - margin.top - margin.bottom,
     padding = 3;
 
-var projection = d3.geo.albersUsa();
+var projection = d3.geo.mercator();
 
 var radius = d3.scale.sqrt()
     .domain([0, d3.max(valueById)])
